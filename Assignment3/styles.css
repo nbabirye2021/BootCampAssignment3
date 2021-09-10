@@ -1,0 +1,19 @@
+body{
+
+  background-color:lightskyblue;
+   margin-left: 100px;
+    margin-right: 100px;
+}
+header{
+
+    border: 2px dotted rgb(156, 153, 153);
+    padding: 3px;text-align: center;
+}
+h1{
+    color:red;
+}
+
+main{
+    border: 2px dotted rgb(156, 153, 153);
+     padding: 3px; 
+}
