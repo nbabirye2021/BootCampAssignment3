@@ -1,19 +1,41 @@
 body{
 
-  background-color:lightskyblue;
-   margin-left: 100px;
-    margin-right: 100px;
+  background-color:#d3cdcd;
+ margin-left: 200px;
+ margin-right: 200px;
+    
 }
 header{
 
     border: 2px dotted rgb(156, 153, 153);
+    
     padding: 3px;text-align: center;
+    background-color:	lightskyblue;
 }
 h1{
     color:red;
+   
+
+}
+nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
 }
 
 main{
-    border: 2px dotted rgb(156, 153, 153);
+    border: 2px solid rgb(156, 153, 153);
      padding: 3px; 
+     background-color: darkcyan;
+}
+
+li{
+
+    font-size: 25px;
+  font-family: cursive;
+}
+footer{
+    border: 2px dotted rgb(156, 153, 153);
+    padding: 50px;text-align: center;
+    background-color:lightskyblue;
+
 }
